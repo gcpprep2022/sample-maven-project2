@@ -1,5 +1,0 @@
-org\crudapp\CrudBackendApplication.class
-org\crudapp\exception\ResourceNotFoundException.class
-org\crudapp\model\Employee.class
-org\crudapp\repository\EmployeeRepository.class
-org\crudapp\controller\EmployeeController.class
